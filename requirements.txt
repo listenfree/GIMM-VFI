@@ -35,7 +35,7 @@ msgpack==1.0.5
 msgpack-numpy==0.4.8
 natsort==8.4.0
 networkx==2.6.3
-numpy== 1.22.0
+numpy>=1.24
 oauthlib==3.2.2
 omegaconf==2.3.0
 opencv-python==4.9.0.80
