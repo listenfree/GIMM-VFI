@@ -42,7 +42,7 @@ opencv-python==4.9.0.80
 packaging==23.2
 parso==0.8.3
 pexpect==4.9.0
-pickle5==0.0.12
+#pickle5==0.0.12
 pickleshare==0.7.5
 Pillow==9.5.0
 prompt-toolkit==3.0.43
